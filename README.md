@@ -1,10 +1,41 @@
-- 👋 Hi, I’m @tigermcrae
-- 👀 I’m interested in Artificial intelligence 
-- 🌱 I’m currently learning Python and Machine learning 
-- 💞️ I’m looking to collaborate on Machine learning 
-- 📫 Email me on tigermcrae1@gmail.com....... Even if its just to talk..... Or text me on Whatsapp...... Email me for my number 😜
+# 🧠🛠️ Tiger Macrae
 
-<!---
-tigermcrae/tigermcrae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi. I’m Tiger.  
+I’m getting into **IT hardware, on-site support, and field service**.  
+I like **hands-on work**, breaking things (on purpose), and fixing them again.
+
+---
+
+## 🔧 What I’m focusing on
+- 🖥️ Computer hardware setup & troubleshooting  
+- 🔌 Real-world IT support (on-site > remote)  
+- 🌐 Basic networking (LAN, Wi-Fi, routers, cabling)  
+- 🧩 CMS-based website maintenance (from past work)
+
+---
+
+## 🧪 What this GitHub is for
+- 🛠️ Learning by doing  
+- 🧠 Notes, experiments, and small practical projects  
+- 📂 Practice repos (hardware, OS installs, networking, scripts)  
+- 📈 Slowly turning the contribution graph from **dry** to **alive**
+
+---
+
+## 🗺️ Background
+- 🎓 IT student (Mount Kenya University)  
+- 💼 Former intern in an e-commerce environment (CMS + basic IT support)  
+- 🚗 Open to on-site and field IT roles
+
+---
+
+## ⚠️ Status
+- 🔰 Early stage  
+- 📉 Low activity (for now)  
+- 📈 Skill-building in progress  
+
+---
+
+## 📬 Contact
+📧 tigermcrae1@gmail.com  
+📍 Nairobi, Kenya 🇰🇪
